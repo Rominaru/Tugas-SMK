@@ -34,3 +34,15 @@ Ada juga yang beranggapan kalau C# adalah peningkatan dari C++.
 ```js
 Install sebuah Aplikasi Diandroid seperti dcoder, jika ingin PC atau Laptop install Lah sebuah APP Dev C++
 ```
+
+# Contoh
+
+```c++
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout << "Hello World!" << endl;
+    return 0;
+}
+```
